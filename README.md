@@ -1,12 +1,12 @@
-# Dracula for [X](http://link-to-x.com)
+# Dracula for [Arduino Pro IDE](https://github.com/arduino/arduino-pro-ide)
 
-> A dark theme for [X](http://link-to-x.com).
+> A dark theme for [Arduino Pro IDE](https://github.com/arduino/arduino-pro-ide).
 
 ![Screenshot](./screenshot.png)
 
 ## Install
 
-All instructions can be found at [draculatheme.com/x](https://draculatheme.com/x).
+All instructions can be found at [draculatheme.com/arduino-pro-ide](https://draculatheme.com/arduino-pro-ide).
 
 ## Team
 

@@ -1,17 +1,22 @@
-### [X](http://link-to-x.com)
+### [Arduino Pro IDE](https://github.com/arduino/arduino-pro-ide)
 
-#### Install using Git
+#### Install
 
-If you are a git user, you can install the theme and keep up to date by cloning the repo:
+Download using the Git:
 
-    $ git clone https://github.com/dracula/template.git
+```bash
+$ git clone https://github.com/dracula/arduino-pro-ide.git
+```
 
-#### Install manually
+Download using the [GitHub .zip download](https://github.com/dracula/arduino-ide/archive/master.zip) option and unzip them.
 
-Download using the [GitHub .zip download](https://github.com/dracula/template/archive/master.zip) option and unzip them.
+**Windows:**
+- Copy the `./arduino-pro-ide/theme` folder to the `C:/Program Files (x86)/arduino-pro-ide_nightly-20201208_Windows_64bit/resources/app/plugins/` directory on your local machine.
 
-#### Activating theme
+**Linux:**
+- Copy the `./arduino-pro-ide/theme` folder to the `arduino-pro-ide_nightly-20201209_Linux_64bit/resources/app/plugins/` directory on your local machine.
 
-1. Do this
-2. Then that
-3. Boom! It's working
+**Activating theme:**
+- Run Arduino Pro IDE
+- Press <kbd>Ctrl + k</kbd> and then <kbd>Ctrl + T</kbd>
+- Select Dracula Theme
