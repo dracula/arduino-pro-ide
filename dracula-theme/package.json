@@ -2,7 +2,7 @@
     "name":"dracula-theme",
     "displayName":"%displayName%",
     "description":"%description%",
-    "version":"1.0.0",
+    "version":"20.12.20",
     "publisher":"dracula",
     "license":"MIT",
     "engines":{"vscode":"*"},
