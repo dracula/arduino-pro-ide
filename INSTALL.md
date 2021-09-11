@@ -5,7 +5,7 @@
 Download using the Git:
 
 ```bash
-$ git clone https://github.com/dracula/arduino-pro-ide.git
+git clone https://github.com/dracula/arduino-pro-ide.git
 ```
 
 Download using the [GitHub .zip download](https://github.com/dracula/arduino-pro-ide/archive/master.zip) option and unzip them.
