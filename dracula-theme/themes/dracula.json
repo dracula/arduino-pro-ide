@@ -55,6 +55,8 @@
         ]
     },
     "colors": {
+        "editorCursor.foreground": "#ffffff",
+    	"terminalCursor.foreground": "#ffffff",
         "terminal.background": "#282A36",
         "terminal.foreground": "#F8F8F2",
         "terminal.ansiBrightBlack": "#6272A4",
